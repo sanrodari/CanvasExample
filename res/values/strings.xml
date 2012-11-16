@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CanvasExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tennis Game</string>
+    <string name="replay">Replay</string>
+    <string name="finish">Finish</string>
+
+</resources>
